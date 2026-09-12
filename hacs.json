@@ -2,6 +2,6 @@
   "name": "Hikvision NVR",
   "content_in_root": false,
   "domains": ["hikvision_next"],
-  "homeassistant": "2022.8",
+  "homeassistant": "2026.8",
   "render_readme": true
 }
